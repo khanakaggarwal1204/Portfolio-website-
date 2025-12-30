@@ -64,4 +64,4 @@ portfolio-website/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/portfolio-website.git
+   git clone https://github.com/khanakaggarwal1204/portfolio-website.git
